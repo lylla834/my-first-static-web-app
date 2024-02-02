@@ -1,0 +1,6 @@
+"forwardingGateway": {
+  "allowedForwardedHosts": [
+    "kind-coast-0b53ab403.4.azurestaticapps.net",
+    "kind-coast-0b53ab403.privatelink.4.azurestaticapps.net",
+  ]
+}
